@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meeting Notes & Actions"
+  short_description: "Turn meetings into clear notes and accountable next steps"
+  default_prompt: "Use $meeting-notes-and-actions to turn this meeting material into concise notes, decisions, and clearly assigned next steps."
